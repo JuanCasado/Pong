@@ -5,6 +5,6 @@ A simple pong game with a simple OpenGL library ;)
 
 **Share the video with:** [https://youtu.be/dmMxDXqo5UA](https://youtu.be/dmMxDXqo5UA "https://youtu.be/dmMxDXqo5UA")
 
-![PONG](./Screen Shot.png "PONG")
+![PONG]("./Screen Shot.png" "PONG")
 
 
